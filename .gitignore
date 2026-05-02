@@ -1,0 +1,6 @@
+# Ignore draft lessons; keep 01_HelloXAPI published.
+0[2-9]_*/
+[1-9][0-9]_*/
+
+# Ignore all quiz files.
+**/quiz_*.md
