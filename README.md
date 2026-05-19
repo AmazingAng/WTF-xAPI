@@ -8,3 +8,5 @@ xAPI 开发电报群: [链接](https://t.me/+mapOl6ayUYw3YWNl)
 
 **第1讲：Hello xAPI**：[文章](./01_HelloXAPI/readme.md)
 
+**第2讲：推特监听机器人**：[文章](./02_TwitterRead/readme.md)
+
