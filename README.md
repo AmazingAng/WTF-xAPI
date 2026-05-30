@@ -10,3 +10,4 @@ xAPI 开发电报群: [链接](https://t.me/+mapOl6ayUYw3YWNl)
 
 **第2讲：推特监听机器人**：[文章](./02_TwitterRead/readme.md)
 
+**第3讲：发推机器人**：[文章](./03_TwitterPost/readme.md)

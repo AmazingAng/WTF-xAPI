@@ -3,7 +3,7 @@
 **/.DS_Store
 
 # Ignore draft lessons; keep 01_HelloXAPI published.
-0[3-9]_*/
+0[4-9]_*/
 [1-9][0-9]_*/
 
 # Ignore all quiz files.

@@ -61,7 +61,11 @@ Agent 会自动按 xAPI Skill 教的"**先 `user_by_screen_name` 拿数字 ID（
 
 ![](./img/2-1.png)
 
-如果你还没有安装 xAPI skill 或注册账号，请参考教程的[第一讲](../01_HelloXAPI/readme.md)。
+如果你还没有安装 xAPI skill 或注册账号，请参考教程的[第一讲](../01_HelloXAPI/readme.md)，主要有3步：
+
+1. 让 Agent 使用 npx skills add https://github.com/xapi-labs/xapi-cli --skill xapi 安装 xapi skill
+2. 让 Agent 帮忙注册一个 xAPI 账号，邀请码 xapito
+3. 注册成功会返回一个链接，访问这个链接绑定推特账号，领取 $1 免费额度。
 
 ## 3. 让 Agent 写监听脚本
 
